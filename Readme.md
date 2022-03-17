@@ -9,7 +9,7 @@
 - Funcionalidades gerais
 - Variáveis
 - Operadores
-- Exercícios
+- [Exercícios](https://jonathanppmaia.github.io/javascriptEBAC/ex013/index.html)
 
 ### Módulo 14 - JavaScript II
 
@@ -18,7 +18,7 @@
 - Funções
 - Funções Recursivas
 - Eventos
-- Exercícios
+- [Exercícios](https://jonathanppmaia.github.io/javascriptEBAC/ex014/ex014.html)
 
 ### Módulo 15 - JavaScript Foundation
 
