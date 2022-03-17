@@ -1,0 +1,58 @@
+@import url('./reset.css');
+
+* {
+  font-family: 'Open Sans';
+  box-sizing: border-box;
+}
+
+section {
+
+  width: 500px;
+  height: 340px;
+  background-color: rgb(65, 156, 118);
+  border-radius: 20px;
+  color: white;
+  margin: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+}
+
+.exercicio01 {
+  padding: 20px 80px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+#button {
+  text-align: center;
+}
+
+.button {
+  background-color: rgb(197, 93, 61);
+  border-radius: 10px;
+  width: 200px;
+  height: 30px;
+  color: blanchedalmond;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#resultado {
+  font-size: 1.2rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+input,
+button {
+  display: inline-block;
+  margin: 10px;
+}
